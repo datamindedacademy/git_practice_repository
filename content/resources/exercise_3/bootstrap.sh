@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author : Mastan
 
 ROOT="$(dirname "$0")/../.."
 cd "$ROOT/exercise_3"
