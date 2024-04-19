@@ -67,7 +67,7 @@ setup(
     # See https://PyPI.python.org/PyPI?%3Aaction=list_classifiers
     classifiers=[
       # How mature is this project? Common values are
-      #   3 - Alpha
+      #   3 - Alpha Riccardo
       #   4 - Beta
       #   5 - Production/Stable
       "Development Status :: 3 - Alpha",
