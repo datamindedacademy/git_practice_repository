@@ -18,7 +18,7 @@ _pysrc = os.path.abspath(os.path.join(os.path.abspath(__file__), "..", "..", "..
 
 # Insert it into the path.
 sys.path.insert(0, _pysrc)
-
+# adding comment
 # Now we can import local modules.
 import mysupercliproject  # noqa
 

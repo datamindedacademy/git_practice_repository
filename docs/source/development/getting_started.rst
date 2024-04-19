@@ -4,7 +4,7 @@
     :glob:
 
 ***************
-Getting Started
+Getting Started with exercise
 ***************
 
 This section provides instructions for setting up your development environment.  If you follow the

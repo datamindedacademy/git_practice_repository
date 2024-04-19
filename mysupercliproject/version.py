@@ -6,6 +6,7 @@ This module contains project version information.
 
 .. currentmodule:: mysupercliproject.version
 .. moduleauthor:: Nathan Derave <nathan.derave@dataminded.be>
+.. coauthor:: poojitha
 """
 
 __version__ = "0.0.1"  #: the working version
