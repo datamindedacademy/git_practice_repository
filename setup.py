@@ -53,8 +53,8 @@ setup(
     """,
     python_requires=">=0.0.1",
     license='MIT',  # noqa
-    author='Nathan Derave',
-    author_email='nathan.derave@dataminded.be',
+    author='Wouter Schoeters',
+    author_email='wouter.schoeters@colruytgroup.com',
     # Use the URL to the github repo.
     url= 'https://github.com/dernat71/mysupercliproject',
     download_url=(
