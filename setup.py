@@ -53,8 +53,8 @@ setup(
     """,
     python_requires=">=0.0.1",
     license='MIT',  # noqa
-    author='Nathan Derave',
-    author_email='nathan.derave@dataminded.be',
+    author='Wouter Schoeters',
+    author_email='wouter.schoeters@colruytgroup.com',
     # Use the URL to the github repo.
     url= 'https://github.com/dernat71/mysupercliproject',
     download_url=(
@@ -67,7 +67,7 @@ setup(
     # See https://PyPI.python.org/PyPI?%3Aaction=list_classifiers
     classifiers=[
       # How mature is this project? Common values are
-      #   3 - Alpha
+      #   3 - Alpha Riccardo
       #   4 - Beta
       #   5 - Production/Stable
       "Development Status :: 3 - Alpha",

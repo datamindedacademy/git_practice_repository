@@ -1,6 +1,6 @@
 # mysupercliproject
 
-This is my click command-line app project.
+This is my click command-line app project. 
 
 ## Project Features
 
@@ -11,7 +11,7 @@ This is my click command-line app project.
 
 ## Getting Started
 
-The project's documentation contains a section to help you
+The project's documentation contains a section to help you 
 [get started](https://MySuperCliProject.readthedocs.io/en/latest/getting_started.html) as a developer or
 user of the library.
 
@@ -24,7 +24,7 @@ If you're going to be working in the code (rather than just using the library), 
 
 ## Resources
 
-Below are some handy resource links.
+Below are some handy resource links. 
 
 * [Project Documentation](http://MySuperCliProject.readthedocs.io/)
 * [Click](http://click.pocoo.org/5/) is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary.
@@ -60,3 +60,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+exercise 5 mili
