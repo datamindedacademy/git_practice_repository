@@ -7,3 +7,5 @@ tasks:
       rm -rfv ./exercise* ./.git ./content
       mv /home/gitpod/git-exercices/* .
       clear
+  - name: Make lasagna bolognesa
+    before: heat oven!
