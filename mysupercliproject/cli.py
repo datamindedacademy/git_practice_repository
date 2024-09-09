@@ -37,7 +37,7 @@ class Info(object):
     def __init__(self):  # Note: This object must have an empty constructor.
         """Create a new instance."""
         self.verbose: int = 0
-        print("Hi from the init")
+        print("Hi from the init by Mattias")
 
 
 # pass_info is a decorator for functions that pass 'Info' objects.
