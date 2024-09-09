@@ -65,3 +65,4 @@ SOFTWARE.
 exercise 5 mili
 
 COR (commit 1)
+NE  (commit 2)
