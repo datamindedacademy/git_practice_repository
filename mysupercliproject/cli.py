@@ -75,6 +75,9 @@ def hello(_: Info):
     """Say 'hello' to the nice people."""
     click.echo("mysupercliproject says 'hello'")
 
+def hello_by_mattias():
+    print('Mattias says hello!')
+
 
 @cli.command()
 def version():
