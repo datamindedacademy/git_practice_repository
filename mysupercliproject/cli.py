@@ -75,6 +75,12 @@ def hello(_: Info):
     """Say 'hello' to the nice people."""
     click.echo("mysupercliproject says 'hello'")
 
+@cli.command()
+@pass_info
+def company_greeting(_: Info):
+    """Say 'hello' to the nice people."""
+    company = "Dataminded"
+    click.echo(f"{company} says 'hello'")
 
 @cli.command()
 def version():
