@@ -56,3 +56,15 @@ def test_hello_displays_expected_message():
     assert 'mysupercliproject' in result.output.strip(), \
         "'Hello' messages should contain the CLI name."
     # fmt: on
+
+def test_company_greetings_displays_expected_message(company):
+    """
+    Arrange/Act: Run the `version` subcommand.
+    Assert:  The output matches the library version.
+    """
+    runner: CliRunner = CliRunner()
+    result: Result = runner.invoke(cli.cli, ["company_greeting"])
+    # fmt: off
+    assert company in result.output.strip(), \
+        "Company greeting messages should contain the company name."
+    # fmt: on
