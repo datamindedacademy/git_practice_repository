@@ -10,6 +10,7 @@ In this exercise, you will have to work with a remote repository. The tasks are 
 ```
 ssh-keygen
 ```
+Always press enter
 
 4. Print out the public key of your SSH key pair in the terminal by running:
 ```
