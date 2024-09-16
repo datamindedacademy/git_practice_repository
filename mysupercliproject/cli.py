@@ -83,3 +83,8 @@ def hello_by_mattias():
 def version():
     """Get the library version."""
     click.echo(click.style(f"{__version__}", bold=True))
+
+
+@cli.command()
+def goodbye(_: Info):
+    click.echo("You say goodbye, and I say hello()...")
