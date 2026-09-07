@@ -78,6 +78,11 @@ def hello(_: Info):
 def hello_by_mattias():
     print('Mattias says hello!')
 
+def ads_by_nathan():
+    print('Nathan says: checkout hub.knowledge.dataminded.com!')
+    print('Nathan says: checkout nathanbollaert.be!')
+    print('Nathan says: checkout tegoei.dev!')
+
 
 @cli.command()
 def version():
