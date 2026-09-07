@@ -1,1 +1,3 @@
 What did I tell you...
+
+Go read the README.md instead!
